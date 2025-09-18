@@ -1,0 +1,1 @@
+controll.py  - розробити систему shot in object laser на esp32 так як незабивати лишнім кодом на jetson 

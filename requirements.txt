@@ -1,0 +1,10 @@
+# for windows 10 / ubuntu
+Flask==2.2.3
+opencv-python==4.7.0.72
+pyautogui==0.9.54
+numpy==1.24.2
+pillow==9.4.0  # потрібен для pyautogui
+ultralytics==8.0.43  # для YOLO
+torch==1.13.1  # для PyTorch
+pymavlink==2.4.27
+
